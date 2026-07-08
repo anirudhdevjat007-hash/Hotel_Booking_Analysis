@@ -37,7 +37,6 @@ The objective is to help hotel management make data-driven decisions to reduce c
 Hotel Booking Analysis/
 │
 ├── Dataset/
-├── Images/
 ├── Power BI/
 ├── Python/
 ├── SQL/
