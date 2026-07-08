@@ -122,18 +122,7 @@ Performed:
 
 ---
 
-## 📷 Dashboard Screenshots
 
-Add screenshots from the **Images** folder here.
-
-Example:
-
-```
-Images/Dashboard_Page1.png
-Images/Dashboard_Page2.png
-```
-
----
 
 ## 👨‍💻 Author
 
